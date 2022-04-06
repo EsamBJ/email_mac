@@ -1,9 +1,8 @@
+om:
 00:22:48:5c:13:6b
-om
-00:22:48:5c:13:6b
-ra
+ra:
 00:0d:3a:7c:be:a7
-5sim
+5sim:
 00:0d:3a:0e:fb:10
 00:0d:3a:0c:b4:39
 00:0d:3a:4e:7d:29
@@ -13,6 +12,6 @@ esam:
 00:0d:3a:df:81:e5
 00:0d:3a:22:96:c4
 60:45:bd:ab:05:c6
-abo hassan
+abo hassan:
 60:45:bd:86:d0:47
 60:45:bd:aa:43:c8
